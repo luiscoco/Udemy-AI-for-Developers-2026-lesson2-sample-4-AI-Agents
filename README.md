@@ -1,4 +1,4 @@
-# Sample 4 - AI Agents: AI that can plan and act
+# AI Agents: AI that can plan and act
 
 A small, runnable Python app that demonstrates the **agent loop** from the slide:
 
